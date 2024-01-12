@@ -1,10 +1,12 @@
 # Byte-compiled / optimized / DLL files
+.idea
+.coba
 __pycache__/
 *.py[cod]
 *$py.class
 
 # C extensions
-*.so
+*.somy-first-python-code
 
 # Distribution / packaging
 .Python
