@@ -1,3 +1,5 @@
 Leader  : Musa
 Staf    : Agustin
 Promo   : Halomoan
+Marga   : Marbun
+Cabang  : Lumbanbatu
